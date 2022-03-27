@@ -110,7 +110,7 @@
   	
   	-crontab -l for list of cron job
 
-  	-cronjob -e for add or edit new cron job
+  	-crontab -e for add or edit new cron job
 
   	-your laravel project path (queue is my laravel folder name)
 
